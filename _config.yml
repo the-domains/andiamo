@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: 'Andiamo!'
 opengraph:
   image: null
   type: null
@@ -22,7 +20,7 @@ purpose: []
 color:
   saturation: 0.2531328
   brandStrength: 0.6954888
-  lightness: 0.641604
+  lightness: 0.3088973
   brandColors:
     - '#B8B42D'
     - '#697A21'
@@ -31,10 +29,12 @@ color:
     - '#DD403A'
   rhythmicContrast: 0.4630326
 typography_spectrum: 0.3677945
+layout_spectrum: 0.2224311
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2224311
-favicon: null
-name: 'Andiamo!'
+analytics:
+  twitter: null
+  google: null
+  facebook: null
