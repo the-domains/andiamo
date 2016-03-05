@@ -1,28 +1,40 @@
-name: 'Andiamo!'
-favicon: null
-layout_spectrum: 0.5226153975818306
-typography_spectrum: 0.7649284603539854
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2531328
+  brandStrength: 0.6954888
+  lightness: 0.641604
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.5854423122946173
-  lightness: 0.8480260553769767
-  saturation: 0.07766598695889115
-  rhythmicContrast: 0.1710382173769176
-purpose: []
+  rhythmicContrast: 0.4630326
+typography_spectrum: 0.3677945
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2224311
+favicon: null
+name: 'Andiamo!'
