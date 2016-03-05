@@ -1,0 +1,28 @@
+name: 'Andiamo!'
+favicon: null
+layout_spectrum: 0.5226153975818306
+typography_spectrum: 0.7649284603539854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5854423122946173
+  lightness: 0.8480260553769767
+  saturation: 0.07766598695889115
+  rhythmicContrast: 0.1710382173769176
+purpose: []
