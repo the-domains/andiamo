@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Andiamo! at Al Zeina is the top address for fresh and contemporary Italian Style food in Abu Dhabi'
 cta:
   domain: null
   bucket: null
