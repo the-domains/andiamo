@@ -1,9 +1,7 @@
-favicon: null
 name: 'Andiamo!'
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2224311
+typography_spectrum: 0.3677945
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.2531328
-  brandStrength: 0.7921147
-  lightness: 0.3088973
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.4630326
-typography_spectrum: 0.3677945
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.2224311
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#0a0b06'
+    - '#c4b08f'
+    - '#746552'
+    - '#4ca1d7'
+  brandStrength: 0.8125
+  lightness: 0.3088973
+  saturation: 0.5
+  rhythmicContrast: 0.4630326
+purpose: []
