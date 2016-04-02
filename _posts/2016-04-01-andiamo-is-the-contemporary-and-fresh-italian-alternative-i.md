@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Andiamo! is the contemporary and fresh Italian alternative in Abu Dhabi! We are located at Al Zeina at Raha Beach and serve our customers with best Italian food made only by fresh and the best ingredients. You decide what you eat! '
-datePublished: '2016-04-02T03:57:39.830Z'
-dateModified: '2016-04-02T03:56:58.571Z'
+datePublished: '2016-04-02T04:01:19.615Z'
+dateModified: '2016-04-02T03:57:44.608Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-01-andiamo-is-the-contemporary-and-fresh-italian-alternative-i.md
