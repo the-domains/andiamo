@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Andiamo!]]></title>
-        <description><![CDATA[Andiamo!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Andiamo! at Al Zeina is the top address for fresh and contemporary Italian Style food in Abu Dhabi]]></title>
+        <description><![CDATA[Andiamo! at Al Zeina is the top address for fresh and contemporary Italian Style food in Abu Dhabi]]></description>
+        <link>https://thegrid.ai/andiamo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 15:25:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 03:57:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andiamo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Andiamo! is the contemporary and fresh Italian alternative in Abu Dhabi! We are located at Al Zeina at Raha Beach and serve our customers with best Italian food made only by fresh and the best ingredients. You decide what you eat! </p>]]></description>
-            <link>undefinedandiamo-is-the-contemporary-and-fresh-italian-alternative-i/index.html</link>
+            <link>https://thegrid.ai/andiamo/andiamo-is-the-contemporary-and-fresh-italian-alternative-i/index.html</link>
             <guid isPermaLink="false">29954597-fc40-4279-ad16-05b5bf5d9db1</guid>
-            <pubDate>Fri, 01 Apr 2016 15:24:16 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 03:57:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
