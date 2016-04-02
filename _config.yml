@@ -1,6 +1,6 @@
 name: 'Andiamo!'
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73862
 typography_spectrum: 0.02935
 collections:
   - index:
@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'Andiamo! at Al Zeina, located at Raha Beach Road in Abu Dhabi is the top address for fresh and contemporary Italian Style food. Only fresh ingredients, prepared when you order are the basis for the best Pizza and Pasta in town.'
+title: 'Andiamo! at Al Zeina, located at Raha Beach Road in Abu Dhabi is the top address for fresh and contemporary Italian Style food in Abu Dhabi! Only fresh ingredients, prepared when you order are the basis for the best Pizza and Pasta in town.'
 cta:
   domain: null
   bucket: null
@@ -36,6 +36,6 @@ color:
     - '#b5e415'
   brandStrength: 0.8125
   lightness: 0.5
-  saturation: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
