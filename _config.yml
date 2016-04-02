@@ -1,7 +1,7 @@
 name: 'Andiamo!'
 favicon: null
 layout_spectrum: 0.73862
-typography_spectrum: 0.03774
+typography_spectrum: 0
 collections:
   - index:
       path: /
